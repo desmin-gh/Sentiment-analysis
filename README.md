@@ -5,8 +5,10 @@ Deplyoed on Herokuu
 https://warm-eyrie-36860.herokuapp.com/
 
 Positve:
-![Screenshot (370)](https://user-images.githubusercontent.com/53439456/131492983-47f3357c-1356-4183-9e8c-043542b7bf7d.png)
+![Screenshot (372)](https://user-images.githubusercontent.com/53439456/131493205-ab9d03c7-193b-4537-8889-519d5077a0dc.png)
+
 Negative:
-![Screenshot (371)](https://user-images.githubusercontent.com/53439456/131492992-c412abb9-7989-4f64-b1f9-d3c0faa90224.png)
+![Screenshot (373)](https://user-images.githubusercontent.com/53439456/131493223-05b76441-a4e0-497c-a434-9ebddfa7047b.png)
+
 
 
